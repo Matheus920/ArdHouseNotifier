@@ -1,0 +1,23 @@
+{
+  "name": "ardhousenotifier",
+  "version": "1.0.0",
+  "description": "Um webserver simples para enviar notificações para um app Android",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Matheus920/ArdHouseNotifier.git"
+  },
+  "author": "Matheus Moreira da Silva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Matheus920/ArdHouseNotifier/issues"
+  },
+  "homepage": "https://github.com/Matheus920/ArdHouseNotifier#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "firebase-admin": "^8.10.0"
+  }
+}
